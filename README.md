@@ -54,6 +54,12 @@ O programa funciona em um *loop* contínuo com base nas escolhas do usuário:
 | **2** | **PESQUISAR/GERENCIAR.** Permite que o usuário digite um termo de busca (Nome ou Matrícula). Se o aluno for encontrado, o sistema perguntará: `[E] Editar`, `[R] Remover` ou `[C] Cancelar`. |
 | **3** | **SAIR.** Encerra o programa e garante que a última versão do banco de dados (`dados_alunos.csv`) seja salva. |
 
+** 3. Exemplos de Mensagens de Commit:**
+
+* `feat: Implementa a função de inserção de aluno.` (Para novas funcionalidades)
+* `fix: Corrige erro na busca de alunos por nome.` (Para correções de bugs)
+* `docs: Adiciona o arquivo requirements.txt ao projeto.` (Para documentação)
+
 
 
 
